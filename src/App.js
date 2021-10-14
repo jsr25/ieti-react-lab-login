@@ -11,6 +11,7 @@ import Login from "./component/login/Login";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from "./component/navbar/Navbar";
+import './App.css';
 
 function App() {
   return (
